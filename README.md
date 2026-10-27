@@ -10,7 +10,7 @@
 
 ---
 ## 📷 IMAGEM 
-<img width="1060" height="559" alt="Captura de Tela 2026-10-27 às 15 47 05" src="https://github.com/user-attachments/assets/3bee483c-4bcc-43f4-a40f-7b8b1cf9cd2e" />
+<img width="1060" height="559" alt="Captura de Tela 2026-10-27 às 15 47 05" src="https://github.com/user-attachments/assets/10e6769e-ae85-4b5b-a437-1632f1535921" />
 
 
 ## 📖 Sobre o Projeto
